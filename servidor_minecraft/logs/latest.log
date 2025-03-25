@@ -70,3 +70,9 @@ gamerule keepinventory true<--[HERE]
 [03:14:02] [Server thread/INFO]: [R0MDK: Gamerule keepInventory is now set to: true]
 [03:14:11] [Server thread/INFO]: Made R00MDK no longer a server operator
 [03:36:17] [Server thread/INFO]: Villager Villager['Nitwit'/89, uuid='d79b6ec5-8379-4df4-a766-59783998a705', l='ServerLevel[world]', x=69.51, y=72.00, z=176.91, cpos=[4, 11], tl=296211, v=true] died, message: 'Nitwit was slain by Zombie'
+[03:51:11] [Server thread/INFO]: R0MDK issued server command: /fill 28 -13 264 28 -13 264 destro
+[03:53:08] [Server thread/INFO]: oOMiluOo was slain by R0MDK
+[03:53:21] [Server thread/INFO]: R0MDK issued server command: /tp
+[03:53:35] [Server thread/INFO]: Made R00MD a server operator
+[03:53:37] [Server thread/INFO]: Made R00MDK a server operator
+[03:54:47] [Async Chat Thread - #0/INFO]: [Not Secure] <R0MDK> ||||||||||||||||||||||||||||||||||||
