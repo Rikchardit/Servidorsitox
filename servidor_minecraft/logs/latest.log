@@ -80,3 +80,7 @@ gamerule keepinventory true<--[HERE]
 [04:18:36] [Server thread/INFO]: R0MDK has made the advancement [Monster Hunter]
 [04:32:58] [Async Chat Thread - #1/INFO]: [Not Secure] <oOMiluOo> zZZZzzZZzzzzZzzz
 [04:39:45] [Server thread/INFO]: Villager Villager['Nitwit'/111, uuid='d4000830-f053-413c-9129-8d955e0dfdd5', l='ServerLevel[world]', x=49.52, y=69.00, z=175.48, cpos=[3, 10], tl=371078, v=true] died, message: 'Nitwit was slain by R0MDK'
+[04:46:11] [Async Chat Thread - #3/INFO]: [Not Secure] <R0MDK> sexo o si
+[04:46:13] [Async Chat Thread - #3/INFO]: [Not Secure] <R0MDK> osisois
+[04:46:26] [Server thread/INFO]: oOMiluOo was slain by R0MDK
+[04:46:30] [Server thread/INFO]: R0MDK was slain by oOMiluOo
