@@ -233,3 +233,14 @@ java.util.ConcurrentModificationException: null
 [03:45:08] [Server thread/INFO]: R0MDK issued server command: /title
 [03:45:16] [Server thread/INFO]: R0MDK issued server command: /title R0MDK actionbar Culo
 [03:45:26] [Server thread/INFO]: R0MDK issued server command: /title R0MDK actionbar
+[03:46:09] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
+[03:46:09] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
+[03:46:39] [Server thread/WARN]: Spruce Boat (vehicle of R0MDK) moved wrongly! 1.9912584862130633
+[03:48:41] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
+[03:48:41] [Server thread/INFO]: oOMiluOo left the game
+[03:49:00] [User Authenticator #6/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
+[03:49:01] [Server thread/INFO]: R0MDK issued server command: /
+[03:49:03] [Server thread/INFO]: oOMiluOo joined the game
+[03:49:03] [Server thread/INFO]: oOMiluOo[/127.240.54.189:56035] logged in with entity id 14598 at ([world]347.01915504864195, 62.0, 342.1843903571142)
+[03:55:13] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
+[03:55:13] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
