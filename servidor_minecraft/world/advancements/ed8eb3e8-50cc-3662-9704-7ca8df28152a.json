@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-03-31 03:50:14 +0000",
+      "minecraft:flower_forest": "2025-03-31 04:02:27 +0000",
       "minecraft:beach": "2025-03-31 03:50:04 +0000",
       "minecraft:forest": "2025-03-31 03:06:24 +0000",
       "minecraft:taiga": "2025-03-31 03:52:23 +0000",
@@ -17,9 +18,12 @@
       "minecraft:deep_cold_ocean": "2025-03-31 03:50:26 +0000",
       "minecraft:frozen_ocean": "2025-03-25 05:04:44 +0000",
       "minecraft:frozen_river": "2025-03-16 04:54:05 +0000",
+      "minecraft:swamp": "2025-03-31 03:55:13 +0000",
       "minecraft:meadow": "2025-03-31 03:03:24 +0000",
       "minecraft:birch_forest": "2025-03-31 03:52:47 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-03-31 03:55:55 +0000",
       "minecraft:snowy_beach": "2025-03-25 05:04:37 +0000",
+      "minecraft:savanna": "2025-03-31 04:02:34 +0000",
       "minecraft:plains": "2025-03-31 03:00:46 +0000"
     },
     "done": false
@@ -75,12 +79,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-25 03:26:28 +0000",
+      "mutton": "2025-03-31 04:01:34 +0000",
       "apple": "2025-03-31 03:01:19 +0000",
       "bread": "2025-03-16 04:54:44 +0000",
       "rotten_flesh": "2025-03-16 05:47:49 +0000",
       "potato": "2025-03-16 05:09:29 +0000",
       "cod": "2025-03-25 05:08:08 +0000",
       "baked_potato": "2025-03-25 04:44:39 +0000",
+      "beef": "2025-03-31 04:01:29 +0000",
       "porkchop": "2025-03-31 03:08:45 +0000",
       "cooked_salmon": "2025-03-25 05:08:16 +0000",
       "carrot": "2025-03-16 05:18:58 +0000"
@@ -1442,6 +1448,7 @@
       "minecraft:skeleton": "2025-03-31 03:43:58 +0000",
       "minecraft:spider": "2025-03-25 04:34:02 +0000",
       "minecraft:zombie": "2025-03-25 04:34:06 +0000",
+      "minecraft:creeper": "2025-03-31 04:02:44 +0000",
       "minecraft:slime": "2025-03-25 04:18:36 +0000",
       "minecraft:hoglin": "2025-03-31 03:11:22 +0000"
     },
@@ -2033,6 +2040,144 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-31 03:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-31 03:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-31 03:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-31 03:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-03-31 03:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-03-31 03:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-03-31 03:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-03-31 03:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-03-31 03:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-03-31 03:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-03-31 03:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-03-31 03:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-03-31 03:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-03-31 03:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-03-31 03:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-03-31 03:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-03-31 03:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-31 03:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-31 03:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-31 03:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-31 03:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-31 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-31 04:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-03-31 04:02:43 +0000"
     },
     "done": true
   },

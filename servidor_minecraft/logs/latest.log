@@ -244,3 +244,48 @@ java.util.ConcurrentModificationException: null
 [03:49:03] [Server thread/INFO]: oOMiluOo[/127.240.54.189:56035] logged in with entity id 14598 at ([world]347.01915504864195, 62.0, 342.1843903571142)
 [03:55:13] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
 [03:55:13] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
+[03:55:57] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
+[03:55:57] [Server thread/INFO]: oOMiluOo left the game
+[03:55:59] [Server thread/INFO]: R0MDK lost connection: Disconnected
+[03:55:59] [Server thread/INFO]: R0MDK left the game
+[03:57:09] [User Authenticator #7/INFO]: UUID of player R0MDK is ed8eb3e8-50cc-3662-9704-7ca8df28152a
+[03:57:12] [Server thread/INFO]: R0MDK joined the game
+[03:57:12] [Server thread/INFO]: R0MDK[/127.13.255.250:44401] logged in with entity id 19491 at ([world]-340.2730106939247, 80.0, 1526.5095967043019)
+[03:57:15] [User Authenticator #7/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
+[03:57:18] [Server thread/INFO]: oOMiluOo joined the game
+[03:57:18] [Server thread/INFO]: oOMiluOo[/127.240.54.189:48545] logged in with entity id 19678 at ([world]-338.14150764975074, 80.0, 1524.3036341602183)
+[04:01:19] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
+[04:01:19] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
+[04:01:43] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
+[04:01:43] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
+[04:04:44] [Server thread/INFO]: R0MDK issued server command: /save
+[04:04:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+save<--[HERE]
+[04:04:53] [Server thread/INFO]: Stopping the server
+[04:04:53] [Server thread/INFO]: Stopping server
+[04:04:53] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[04:04:53] [Server thread/INFO]: Saving players
+[04:04:53] [Server thread/INFO]: R0MDK lost connection: Server closed
+[04:04:53] [Server thread/INFO]: R0MDK left the game
+[04:04:53] [Server thread/INFO]: oOMiluOo lost connection: Server closed
+[04:04:53] [Server thread/INFO]: oOMiluOo left the game
+[04:04:53] [Server thread/INFO]: Saving worlds
+[04:04:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:04:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:04:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:04:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Saved 2467 block chunks, 1395 entity chunks, 38 poi chunks in world 'world' in 2.40s
+[04:04:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Saved 43 block chunks, 58 entity chunks, 0 poi chunks in world 'world_nether' in 0.06s
+[04:04:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[04:04:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:04:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:04:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:04:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
