@@ -1718,6 +1718,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-25 04:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-25 04:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-03-25 04:38:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-03-25 04:48:01 +0000"
@@ -1730,21 +1748,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smoker": {
+  "minecraft:story/root": {
     "criteria": {
-      "has_furnace": "2025-03-25 04:38:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-03-25 04:37:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-03-25 04:37:59 +0000"
+      "crafting_table": "2025-03-25 05:07:50 +0000"
     },
     "done": true
   },
