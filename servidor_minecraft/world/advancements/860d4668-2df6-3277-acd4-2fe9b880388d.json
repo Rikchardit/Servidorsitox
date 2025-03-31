@@ -1460,6 +1460,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-31 02:54:15 +0000",
       "minecraft:stray": "2025-03-17 01:26:13 +0000",
       "minecraft:spider": "2025-03-16 23:26:14 +0000",
       "minecraft:zombie": "2025-03-16 23:43:48 +0000"
@@ -1754,9 +1755,16 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-31 02:52:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-03-31 02:49:12 +0000"
+      "minecraft:crimson_forest": "2025-03-31 02:49:12 +0000",
+      "minecraft:nether_wastes": "2025-03-31 02:57:55 +0000"
     },
     "done": false
   },
@@ -1769,6 +1777,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-03-31 02:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-31 02:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-31 02:56:24 +0000"
     },
     "done": true
   },
