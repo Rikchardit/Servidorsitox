@@ -139,3 +139,97 @@
 [03:35:22] [Server thread/INFO]: [R0MDK: Created team [Culonas]]
 [03:35:27] [Server thread/INFO]: R0MDK issued server command: /team join Culonas
 [03:35:27] [Server thread/INFO]: [R0MDK: Added R0MDK to team [Culonas]]
+[03:35:49] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
+[03:35:49] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
+[03:36:15] [Server thread/INFO]: R0MDK issued server command: /help
+[03:36:28] [Server thread/INFO]: R0MDK issued server command: /setworldspawn
+[03:36:28] [Server thread/INFO]: [R0MDK: Set the world spawn point to 689, 63, 140 [0.0]]
+[03:37:26] [Server thread/INFO]: R0MDK issued server command: /team remove Aventureros
+[03:37:26] [Server thread/INFO]: [R0MDK: Removed team [Aventureros]]
+[03:37:29] [Server thread/INFO]: R0MDK issued server command: /team remove Culonas
+[03:37:29] [Server thread/INFO]: [R0MDK: Removed team [Culonas]]
+[03:37:43] [Server thread/INFO]: R0MDK issued server command: /jfr
+[03:37:50] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
+[03:37:50] [Server thread/INFO]: oOMiluOo left the game
+[03:37:57] [Server thread/INFO]: R0MDK issued server command: /reload confirm
+[03:37:57] [Server thread/INFO]: R0MDK: Please note that this command is not supported and may cause issues when using some plugins.
+[03:37:57] [Server thread/INFO]: R0MDK: If you encounter any issues please use the /stop command to restart your server.
+[03:37:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:37:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:37:57] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.0
+[03:37:57] [Server thread/INFO]: Loaded 1290 recipes
+[03:37:57] [Server thread/INFO]: Loaded 1399 advancements
+[03:37:58] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:37:58] [Paper Async Command Builder Thread Pool - 14/ERROR]: Caught previously unhandled exception :
+[03:37:58] [Paper Async Command Builder Thread Pool - 14/ERROR]: Paper Async Command Builder Thread Pool - 14
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:37:58] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[03:37:59] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 1528ms.
+[03:37:59] [Server thread/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[03:37:59] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SkinsRestorer (15.6.1)
+[03:37:59] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.1
+[03:37:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:37:59] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[03:38:00] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[03:38:00] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[03:38:01] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[03:38:01] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:38:01] [Server thread/INFO]: R0MDK: Reload complete.
+[03:38:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4623ms or 92 ticks behind
+[03:38:01] [Server thread/INFO]: Timings Reset
+[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.6.1
+[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 8687003
+[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:38:02] [User Authenticator #5/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
+[03:38:04] [Server thread/INFO]: oOMiluOo joined the game
+[03:38:04] [Server thread/INFO]: oOMiluOo[/127.240.54.189:52919] logged in with entity id 12723 at ([world]680.329320037113, 63.0, 136.3873991484954)
+[03:38:19] [Server thread/INFO]: R0MDK issued server command: /jfr
+[03:38:23] [Server thread/INFO]: R0MDK issued server command: /setworldspawn
+[03:38:23] [Server thread/INFO]: [R0MDK: Set the world spawn point to 682, 63, 136 [0.0]]
+[03:38:58] [Server thread/INFO]: R0MDK issued server command: /setworldspawn delete
+[03:39:01] [Server thread/INFO]: R0MDK issued server command: /remove
+[03:39:30] [Server thread/INFO]: R0MDK issued server command: /setblock
+[03:39:57] [Server thread/INFO]: R0MDK issued server command: /op oOMiluOo
+[03:39:57] [Server thread/INFO]: [R0MDK: Made oOMiluOo a server operator]
+[03:40:39] [Server thread/INFO]: R0MDK issued server command: /scoreboard
+[03:40:44] [Server thread/INFO]: R0MDK issued server command: /scoreboard players set
+[03:40:47] [Server thread/INFO]: R0MDK issued server command: /scoreboard players set @a
+[03:40:57] [Server thread/INFO]: R0MDK issued server command: /scoreboard players enable
+[03:41:15] [Server thread/INFO]: R0MDK issued server command: /say CULOS
+[03:41:15] [Async Chat Thread - #7/INFO]: [Not Secure] [R0MDK] CULOS
+[03:41:27] [Server thread/INFO]: [Not Secure] [Server] A ver la cola
+[03:41:42] [Server thread/INFO]: [Not Secure] [Server] A ver la cola por favor
+[03:42:10] [Server thread/INFO]: [Not Secure] [Server] A ver la cola por favor dale futura esposa
+[03:43:06] [Async Chat Thread - #7/INFO]: [Not Secure] <oOMiluOo> cochino
+[03:43:46] [Server thread/INFO]: R0MDK issued server command: /tp
+[03:44:09] [Async Chat Thread - #9/INFO]: [Not Secure] <R0MDK> 757
+[03:44:12] [Async Chat Thread - #9/INFO]: [Not Secure] <R0MDK> 757.211
+[03:44:16] [Async Chat Thread - #9/INFO]: [Not Secure] <R0MDK> 66
+[03:44:18] [Async Chat Thread - #9/INFO]: [Not Secure] <R0MDK> 142
+[03:44:32] [Server thread/INFO]: R0MDK issued server command: /tp 757 6 ~142
+[03:44:32] [Server thread/INFO]: [R0MDK: Teleported R0MDK to 757.500000, 6.000000, 284.211148]
+[03:44:43] [Server thread/INFO]: R0MDK issued server command: /tp
+[03:44:44] [Server thread/INFO]: R0MDK suffocated in a wall
+[03:45:02] [Server thread/INFO]: R0MDK issued server command: /tp ~ ~
+[03:45:08] [Server thread/INFO]: R0MDK issued server command: /title
+[03:45:16] [Server thread/INFO]: R0MDK issued server command: /title R0MDK actionbar Culo
+[03:45:26] [Server thread/INFO]: R0MDK issued server command: /title R0MDK actionbar

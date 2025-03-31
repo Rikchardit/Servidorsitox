@@ -1759,25 +1759,6 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-03-31 02:52:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-03-31 02:49:12 +0000",
-      "minecraft:nether_wastes": "2025-03-31 02:57:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2025-03-31 03:06:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-03-31 02:49:11 +0000"
@@ -1790,15 +1771,16 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_gold_nugget": "2025-03-31 03:02:16 +0000"
+      "minecraft:crimson_forest": "2025-03-31 02:49:12 +0000",
+      "minecraft:nether_wastes": "2025-03-31 02:57:55 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_golden_helmet": "2025-03-31 03:06:45 +0000"
+      "lava_bucket": "2025-03-31 02:52:23 +0000"
     },
     "done": true
   },
@@ -1808,9 +1790,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_emerald": "2025-03-31 03:24:14 +0000"
+      "has_obsidian": "2025-03-31 02:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-31 03:02:16 +0000"
     },
     "done": true
   },
@@ -1832,15 +1820,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-03-31 02:56:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-03-31 03:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-31 03:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-31 03:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-31 03:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-31 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-31 03:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-31 03:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-31 03:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-31 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-31 03:38:22 +0000"
     },
     "done": true
   },

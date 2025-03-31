@@ -1856,6 +1856,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-31 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-31 03:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-31 03:23:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-31 03:24:10 +0000"
@@ -1871,12 +1889,6 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-31 03:24:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-03-31 03:28:09 +0000"
     },
     "done": true
   },
@@ -1898,21 +1910,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-03-31 03:28:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-03-31 03:24:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-03-31 03:28:09 +0000"
     },
     "done": true
   },
@@ -1922,15 +1922,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-31 03:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-03-31 03:28:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "has_hay_block": "2025-03-31 03:23:37 +0000"
+      "has_string": "2025-03-31 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-31 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-31 03:28:09 +0000"
     },
     "done": true
   },
@@ -1940,27 +1958,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-03-31 03:23:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-03-31 03:23:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-03-31 03:28:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_planks": "2025-03-31 03:24:10 +0000"
+      "has_azure_bluet": "2025-03-31 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-31 03:37:10 +0000"
     },
     "done": true
   },
