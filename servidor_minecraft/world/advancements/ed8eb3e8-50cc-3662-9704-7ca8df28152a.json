@@ -1447,6 +1447,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-31 03:43:58 +0000",
       "minecraft:piglin": "2025-04-07 01:50:56 +0000",
+      "minecraft:stray": "2025-04-07 02:37:37 +0000",
       "minecraft:spider": "2025-03-25 04:34:02 +0000",
       "minecraft:zombie": "2025-03-25 04:34:06 +0000",
       "minecraft:creeper": "2025-03-31 04:02:44 +0000",
@@ -2414,6 +2415,54 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-07 02:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-07 02:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-07 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-07 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-07 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-07 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-07 02:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-07 02:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-04-07 02:50:59 +0000"
     },
     "done": true
   },

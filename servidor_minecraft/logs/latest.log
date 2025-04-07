@@ -141,3 +141,27 @@
 [02:35:18] [Server thread/INFO]: oOMiluOo was slain by Spider
 [02:35:28] [Server thread/INFO]: R0MDK issued server command: /tick rate 20
 [02:35:28] [Server thread/INFO]: [R0MDK: Set the target tick rate to 20.0 per second]
+[02:36:00] [Server thread/INFO]: R0MDK issued server command: /gamerule randomTickSpeed
+[02:36:02] [Server thread/INFO]: R0MDK issued server command: /gamerule randomTickSpeed 10
+[02:36:02] [Server thread/INFO]: [R0MDK: Gamerule randomTickSpeed is now set to: 10]
+[02:36:18] [Server thread/INFO]: oOMiluOo was slain by Zombie
+[02:36:28] [Server thread/INFO]: R0MDK lost connection: Disconnected
+[02:36:28] [Server thread/INFO]: R0MDK left the game
+[02:36:34] [User Authenticator #5/INFO]: UUID of player R0MDK is ed8eb3e8-50cc-3662-9704-7ca8df28152a
+[02:36:36] [Server thread/INFO]: R0MDK joined the game
+[02:36:36] [Server thread/INFO]: R0MDK[/127.13.255.250:39833] logged in with entity id 11490 at ([world]236.3283610555233, 64.0, 278.30000001192093)
+[02:37:17] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
+[02:37:17] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
+[02:40:04] [Server thread/INFO]: R0MDK issued server command: /gamerule randomTickSpeed 20
+[02:40:04] [Server thread/INFO]: [R0MDK: Gamerule randomTickSpeed is now set to: 20]
+[02:40:15] [Server thread/INFO]: R0MDK issued server command: /gamerule randomTickSpeed 10
+[02:40:15] [Server thread/INFO]: [R0MDK: Gamerule randomTickSpeed is now set to: 10]
+[02:45:50] [Server thread/INFO]: R0MDK issued server command: /gamerule randomTickSpeed 15
+[02:45:50] [Server thread/INFO]: [R0MDK: Gamerule randomTickSpeed is now set to: 15]
+[02:45:51] [Server thread/INFO]: oOMiluOo issued server command: /tp R0MDK
+[02:45:51] [Server thread/INFO]: [oOMiluOo: Teleported oOMiluOo to R0MDK]
+[02:55:11] [Server thread/INFO]: R0MDK lost connection: Disconnected
+[02:55:11] [Server thread/INFO]: R0MDK left the game
+[02:55:29] [User Authenticator #6/INFO]: UUID of player R0MDK is ed8eb3e8-50cc-3662-9704-7ca8df28152a
+[02:55:32] [Server thread/INFO]: R0MDK joined the game
+[02:55:32] [Server thread/INFO]: R0MDK[/127.13.255.250:58655] logged in with entity id 15083 at ([world]227.91586960473373, 66.0, 277.67737994672456)
