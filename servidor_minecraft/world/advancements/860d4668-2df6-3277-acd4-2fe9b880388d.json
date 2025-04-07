@@ -55,6 +55,7 @@
       "bread": "2025-03-16 05:18:55 +0000",
       "cooked_rabbit": "2025-03-16 05:06:40 +0000",
       "cooked_mutton": "2025-03-16 22:54:30 +0000",
+      "potato": "2025-04-07 01:55:56 +0000",
       "baked_potato": "2025-03-16 05:45:13 +0000",
       "carrot": "2025-03-16 05:47:49 +0000"
     },
@@ -1972,12 +1973,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-03-31 04:02:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-03-31 03:57:54 +0000"
@@ -1990,12 +1985,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-03-31 04:02:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-03-31 03:57:54 +0000"
@@ -2005,6 +1994,24 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-03-31 03:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-31 04:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-03-31 04:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-07 01:53:33 +0000"
     },
     "done": true
   },

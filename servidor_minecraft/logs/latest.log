@@ -1,291 +1,108 @@
-[02:35:08] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[02:35:08] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[02:35:08] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:35:08] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[02:35:08] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
- - SkinsRestorer (15.6.0)
-[02:35:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:35:16] [ServerMain/INFO]: Loaded 1290 recipes
-[02:35:17] [ServerMain/INFO]: Loaded 1399 advancements
-[02:35:17] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:35:17] [Server thread/INFO]: Loading properties
-[02:35:17] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[02:35:18] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:35:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:35:18] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:35:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[02:35:19] [Server thread/INFO]: Default game type: SURVIVAL
-[02:35:19] [Server thread/INFO]: Generating keypair
-[02:35:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:35:19] [Server thread/INFO]: Using epoll channel type
-[02:35:19] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:35:19] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:35:20] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
-[02:35:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:35:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
-[02:35:21] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[02:35:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[02:35:25] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:35:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:35:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:35:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:35:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:35:25] [Server thread/INFO]: Preparing level "world"
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.6.1) is available! Downloading update...
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:35:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
-[02:35:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:35:26] [Folia Async Scheduler Thread #1/WARN]: [SkinsRestorer] [GitHubUpdate] SHA256 hash not found, cannot verify integrity
-[02:35:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 970ms
-[02:35:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
-[02:35:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
-[02:35:27] [Server thread/INFO]: Time elapsed: 1649 ms
-[02:35:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:35:28] [Server thread/INFO]: Time elapsed: 618 ms
-[02:35:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:35:28] [Server thread/INFO]: Time elapsed: 168 ms
-[02:35:28] [Server thread/INFO]: [spark] Starting background profiler...
-[02:35:29] [Server thread/INFO]: Done preparing level "world" (3.756s)
-[02:35:29] [Server thread/INFO]: Running delayed init tasks
-[02:35:29] [Server thread/INFO]: Done (22.322s)! For help, type "help"
-[02:35:29] [Server thread/INFO]: Timings Reset
-[02:35:46] [User Authenticator #0/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
-[02:35:49] [Server thread/INFO]: oOMiluOo joined the game
-[02:35:49] [Server thread/INFO]: oOMiluOo[/127.240.54.189:36301] logged in with entity id 26 at ([world]36.287425505808294, 64.0, 136.40924238084634)
-[02:36:36] [Server thread/INFO]: oOMiluOo was killed
-[02:36:36] [Server thread/INFO]: Killed oOMiluOo
-[02:37:23] [User Authenticator #1/INFO]: UUID of player R0MDK is ed8eb3e8-50cc-3662-9704-7ca8df28152a
-[02:37:26] [Server thread/INFO]: R0MDK joined the game
-[02:37:26] [Server thread/INFO]: R0MDK[/127.13.255.250:47701] logged in with entity id 411 at ([world]99.87727705636074, 71.0, 209.63504320231917)
-[02:39:32] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
-[02:39:32] [Server thread/INFO]: oOMiluOo left the game
-[02:40:33] [User Authenticator #2/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
-[02:40:36] [Server thread/INFO]: oOMiluOo joined the game
-[02:40:36] [Server thread/INFO]: oOMiluOo[/127.240.54.189:37921] logged in with entity id 915 at ([world]40.759152887131854, -14.0, 263.5621740610028)
-[02:45:52] [Server thread/INFO]: No player was found
-[02:46:01] [Server thread/INFO]: Gave 23 [Obsidian] to R0MDK
-[02:47:30] [Server thread/INFO]: oOMiluOo was slain by R0MDK
-[02:49:10] [Server thread/INFO]: R0MDK has made the advancement [We Need to Go Deeper]
-[02:49:11] [Server thread/INFO]: oOMiluOo has made the advancement [We Need to Go Deeper]
-[02:52:23] [Server thread/INFO]: oOMiluOo has made the advancement [Hot Stuff]
-[02:56:24] [Server thread/INFO]: oOMiluOo has made the advancement [Ice Bucket Challenge]
-[02:59:31] [Server thread/INFO]: R0MDK has made the advancement [A Terrible Fortress]
-[03:00:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4409ms or 88 ticks behind
-[03:08:34] [Server thread/INFO]: oOMiluOo fell from a high place
-[03:09:28] [Server thread/INFO]: R0MDK has made the advancement [Who is Cutting Onions?]
-[03:11:03] [Server thread/INFO]: R0MDK issued server command: /tps
-[03:11:10] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[03:11:10] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[03:12:20] [Server thread/INFO]: R0MDK lost connection: Disconnected
-[03:12:20] [Server thread/INFO]: R0MDK left the game
-[03:12:30] [User Authenticator #3/INFO]: UUID of player R0MDK is ed8eb3e8-50cc-3662-9704-7ca8df28152a
-[03:12:33] [Server thread/INFO]: R0MDK joined the game
-[03:12:33] [Server thread/INFO]: R0MDK[/127.13.255.250:50593] logged in with entity id 6947 at ([world]759.3751110134032, 67.0, 141.48134432650298)
-[03:13:05] [Async Chat Thread - #0/INFO]: [Not Secure] <R0MDK> voy a buscar para tomar
-[03:13:07] [Async Chat Thread - #0/INFO]: [Not Secure] <R0MDK> DIGO YO
-[03:13:09] [Async Chat Thread - #0/INFO]: [Not Secure] <R0MDK> GRACIAS
-[03:22:09] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[03:22:09] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[03:27:01] [Async Chat Thread - #2/INFO]: [Not Secure] <R0MDK> ||||||||||||||||||||||||||||||||||||||
-[03:27:04] [Async Chat Thread - #2/INFO]: [Not Secure] <R0MDK> ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-[03:27:07] [Async Chat Thread - #2/INFO]: [Not Secure] <R0MDK> sex
-[03:27:09] [Async Chat Thread - #2/INFO]: [Not Secure] <R0MDK> coito
-[03:27:11] [Async Chat Thread - #2/INFO]: [Not Secure] <R0MDK> pene vs vagina
-[03:27:13] [Server thread/INFO]: R0MDK issued server command: /tps
-[03:27:29] [Server thread/INFO]: R0MDK issued server command: /bossbar add 5 Sexo
-[03:27:50] [Server thread/INFO]: R0MDK issued server command: /bossbar add 5 <Sexo>
-[03:28:01] [Server thread/INFO]: R0MDK issued server command: /bossbar set Sxo
-[03:28:04] [Server thread/INFO]: R0MDK issued server command: /bossbar set
-[03:28:07] [Server thread/INFO]: R0MDK issued server command: /bossbar list
-[03:28:12] [Server thread/INFO]: R0MDK issued server command: /bossbar get
-[03:28:15] [Server thread/INFO]: R0MDK issued server command: /bossbar get qweqweq
-[03:30:47] [Server thread/INFO]: R0MDK issued server command: /title
-[03:30:49] [Server thread/INFO]: R0MDK issued server command: /title as
-[03:32:44] [Server thread/INFO]: R0MDK issued server command: /jfr
-[03:32:46] [Server thread/INFO]: R0MDK issued server command: /kill
-[03:32:46] [Server thread/INFO]: R0MDK was killed
-[03:32:46] [Server thread/INFO]: [R0MDK: Killed R0MDK]
-[03:33:02] [Server thread/INFO]: R0MDK issued server command: /kick R0MDK
-[03:33:02] [Server thread/INFO]: R0MDK lost connection: Kicked by an operator
-[03:33:02] [Server thread/INFO]: R0MDK left the game
-[03:33:02] [Server thread/INFO]: [R0MDK: Kicked R0MDK: Kicked by an operator]
-[03:33:05] [User Authenticator #4/INFO]: UUID of player R0MDK is ed8eb3e8-50cc-3662-9704-7ca8df28152a
-[03:33:07] [Server thread/INFO]: R0MDK joined the game
-[03:33:07] [Server thread/INFO]: R0MDK[/127.13.255.250:34643] logged in with entity id 11716 at ([world]821.409294917217, 64.0, -204.341290127753)
-[03:33:43] [Server thread/INFO]: R0MDK issued server command: /clone
-[03:33:46] [Server thread/INFO]: R0MDK issued server command: /callback
-[03:33:48] [Async Chat Thread - #4/INFO]: [Not Secure] <R0MDK> a
-[03:33:58] [Async Chat Thread - #4/INFO]: [Not Secure] <oOMiluOo> b
-[03:34:06] [Server thread/INFO]: R0MDK issued server command: /team
-[03:34:18] [Server thread/INFO]: R0MDK issued server command: /team add Aventureros
-[03:34:18] [Server thread/INFO]: [R0MDK: Created team [Aventureros]]
-[03:34:27] [Server thread/INFO]: R0MDK issued server command: /team join Aventureros
-[03:34:27] [Server thread/INFO]: [R0MDK: Added R0MDK to team [Aventureros]]
-[03:34:58] [Server thread/INFO]: R0MDK issued server command: /team leave
-[03:35:03] [Server thread/INFO]: R0MDK issued server command: /team leave R0MDK
-[03:35:03] [Server thread/INFO]: [R0MDK: Removed R0MDK from any team]
-[03:35:22] [Server thread/INFO]: R0MDK issued server command: /team add Culonas
-[03:35:22] [Server thread/INFO]: [R0MDK: Created team [Culonas]]
-[03:35:27] [Server thread/INFO]: R0MDK issued server command: /team join Culonas
-[03:35:27] [Server thread/INFO]: [R0MDK: Added R0MDK to team [Culonas]]
-[03:35:49] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[03:35:49] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[03:36:15] [Server thread/INFO]: R0MDK issued server command: /help
-[03:36:28] [Server thread/INFO]: R0MDK issued server command: /setworldspawn
-[03:36:28] [Server thread/INFO]: [R0MDK: Set the world spawn point to 689, 63, 140 [0.0]]
-[03:37:26] [Server thread/INFO]: R0MDK issued server command: /team remove Aventureros
-[03:37:26] [Server thread/INFO]: [R0MDK: Removed team [Aventureros]]
-[03:37:29] [Server thread/INFO]: R0MDK issued server command: /team remove Culonas
-[03:37:29] [Server thread/INFO]: [R0MDK: Removed team [Culonas]]
-[03:37:43] [Server thread/INFO]: R0MDK issued server command: /jfr
-[03:37:50] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
-[03:37:50] [Server thread/INFO]: oOMiluOo left the game
-[03:37:57] [Server thread/INFO]: R0MDK issued server command: /reload confirm
-[03:37:57] [Server thread/INFO]: R0MDK: Please note that this command is not supported and may cause issues when using some plugins.
-[03:37:57] [Server thread/INFO]: R0MDK: If you encounter any issues please use the /stop command to restart your server.
-[03:37:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:37:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:37:57] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.0
-[03:37:57] [Server thread/INFO]: Loaded 1290 recipes
-[03:37:57] [Server thread/INFO]: Loaded 1399 advancements
-[03:37:58] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:37:58] [Paper Async Command Builder Thread Pool - 14/ERROR]: Caught previously unhandled exception :
-[03:37:58] [Paper Async Command Builder Thread Pool - 14/ERROR]: Paper Async Command Builder Thread Pool - 14
-java.util.ConcurrentModificationException: null
-	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
-	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
-	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[03:37:58] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[03:37:59] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 1528ms.
-[03:37:59] [Server thread/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[03:37:59] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[01:45:09] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[01:45:09] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[01:45:09] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:45:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[01:45:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - SkinsRestorer (15.6.1)
-[03:37:59] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.1
-[03:37:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:37:59] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
-[03:38:00] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[03:38:00] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[03:38:01] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[03:38:01] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:38:01] [Server thread/INFO]: R0MDK: Reload complete.
-[03:38:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4623ms or 92 ticks behind
-[03:38:01] [Server thread/INFO]: Timings Reset
-[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.6.1
-[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 8687003
-[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:38:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:38:02] [User Authenticator #5/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
-[03:38:04] [Server thread/INFO]: oOMiluOo joined the game
-[03:38:04] [Server thread/INFO]: oOMiluOo[/127.240.54.189:52919] logged in with entity id 12723 at ([world]680.329320037113, 63.0, 136.3873991484954)
-[03:38:19] [Server thread/INFO]: R0MDK issued server command: /jfr
-[03:38:23] [Server thread/INFO]: R0MDK issued server command: /setworldspawn
-[03:38:23] [Server thread/INFO]: [R0MDK: Set the world spawn point to 682, 63, 136 [0.0]]
-[03:38:58] [Server thread/INFO]: R0MDK issued server command: /setworldspawn delete
-[03:39:01] [Server thread/INFO]: R0MDK issued server command: /remove
-[03:39:30] [Server thread/INFO]: R0MDK issued server command: /setblock
-[03:39:57] [Server thread/INFO]: R0MDK issued server command: /op oOMiluOo
-[03:39:57] [Server thread/INFO]: [R0MDK: Made oOMiluOo a server operator]
-[03:40:39] [Server thread/INFO]: R0MDK issued server command: /scoreboard
-[03:40:44] [Server thread/INFO]: R0MDK issued server command: /scoreboard players set
-[03:40:47] [Server thread/INFO]: R0MDK issued server command: /scoreboard players set @a
-[03:40:57] [Server thread/INFO]: R0MDK issued server command: /scoreboard players enable
-[03:41:15] [Server thread/INFO]: R0MDK issued server command: /say CULOS
-[03:41:15] [Async Chat Thread - #7/INFO]: [Not Secure] [R0MDK] CULOS
-[03:41:27] [Server thread/INFO]: [Not Secure] [Server] A ver la cola
-[03:41:42] [Server thread/INFO]: [Not Secure] [Server] A ver la cola por favor
-[03:42:10] [Server thread/INFO]: [Not Secure] [Server] A ver la cola por favor dale futura esposa
-[03:43:06] [Async Chat Thread - #7/INFO]: [Not Secure] <oOMiluOo> cochino
-[03:43:46] [Server thread/INFO]: R0MDK issued server command: /tp
-[03:44:09] [Async Chat Thread - #9/INFO]: [Not Secure] <R0MDK> 757
-[03:44:12] [Async Chat Thread - #9/INFO]: [Not Secure] <R0MDK> 757.211
-[03:44:16] [Async Chat Thread - #9/INFO]: [Not Secure] <R0MDK> 66
-[03:44:18] [Async Chat Thread - #9/INFO]: [Not Secure] <R0MDK> 142
-[03:44:32] [Server thread/INFO]: R0MDK issued server command: /tp 757 6 ~142
-[03:44:32] [Server thread/INFO]: [R0MDK: Teleported R0MDK to 757.500000, 6.000000, 284.211148]
-[03:44:43] [Server thread/INFO]: R0MDK issued server command: /tp
-[03:44:44] [Server thread/INFO]: R0MDK suffocated in a wall
-[03:45:02] [Server thread/INFO]: R0MDK issued server command: /tp ~ ~
-[03:45:08] [Server thread/INFO]: R0MDK issued server command: /title
-[03:45:16] [Server thread/INFO]: R0MDK issued server command: /title R0MDK actionbar Culo
-[03:45:26] [Server thread/INFO]: R0MDK issued server command: /title R0MDK actionbar
-[03:46:09] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[03:46:09] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[03:46:39] [Server thread/WARN]: Spruce Boat (vehicle of R0MDK) moved wrongly! 1.9912584862130633
-[03:48:41] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
-[03:48:41] [Server thread/INFO]: oOMiluOo left the game
-[03:49:00] [User Authenticator #6/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
-[03:49:01] [Server thread/INFO]: R0MDK issued server command: /
-[03:49:03] [Server thread/INFO]: oOMiluOo joined the game
-[03:49:03] [Server thread/INFO]: oOMiluOo[/127.240.54.189:56035] logged in with entity id 14598 at ([world]347.01915504864195, 62.0, 342.1843903571142)
-[03:55:13] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[03:55:13] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[03:55:57] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
-[03:55:57] [Server thread/INFO]: oOMiluOo left the game
-[03:55:59] [Server thread/INFO]: R0MDK lost connection: Disconnected
-[03:55:59] [Server thread/INFO]: R0MDK left the game
-[03:57:09] [User Authenticator #7/INFO]: UUID of player R0MDK is ed8eb3e8-50cc-3662-9704-7ca8df28152a
-[03:57:12] [Server thread/INFO]: R0MDK joined the game
-[03:57:12] [Server thread/INFO]: R0MDK[/127.13.255.250:44401] logged in with entity id 19491 at ([world]-340.2730106939247, 80.0, 1526.5095967043019)
-[03:57:15] [User Authenticator #7/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
-[03:57:18] [Server thread/INFO]: oOMiluOo joined the game
-[03:57:18] [Server thread/INFO]: oOMiluOo[/127.240.54.189:48545] logged in with entity id 19678 at ([world]-338.14150764975074, 80.0, 1524.3036341602183)
-[04:01:19] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[04:01:19] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[04:01:43] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[04:01:43] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[04:04:44] [Server thread/INFO]: R0MDK issued server command: /save
-[04:04:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
-save<--[HERE]
-[04:04:53] [Server thread/INFO]: Stopping the server
-[04:04:53] [Server thread/INFO]: Stopping server
-[04:04:53] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
-[04:04:53] [Server thread/INFO]: Saving players
-[04:04:53] [Server thread/INFO]: R0MDK lost connection: Server closed
-[04:04:53] [Server thread/INFO]: R0MDK left the game
-[04:04:53] [Server thread/INFO]: oOMiluOo lost connection: Server closed
-[04:04:53] [Server thread/INFO]: oOMiluOo left the game
-[04:04:53] [Server thread/INFO]: Saving worlds
-[04:04:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:04:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[04:04:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[04:04:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Saved 2467 block chunks, 1395 entity chunks, 38 poi chunks in world 'world' in 2.40s
-[04:04:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Saved 43 block chunks, 58 entity chunks, 0 poi chunks in world 'world_nether' in 0.06s
-[04:04:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[04:04:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[04:04:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:04:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:04:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:04:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:45:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:45:18] [ServerMain/INFO]: Loaded 1290 recipes
+[01:45:18] [ServerMain/INFO]: Loaded 1399 advancements
+[01:45:19] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:45:19] [Server thread/INFO]: Loading properties
+[01:45:19] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[01:45:20] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:45:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:45:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:45:21] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[01:45:21] [Server thread/INFO]: Default game type: SURVIVAL
+[01:45:21] [Server thread/INFO]: Generating keypair
+[01:45:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:45:21] [Server thread/INFO]: Using epoll channel type
+[01:45:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:45:21] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[01:45:21] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.1
+[01:45:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:45:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[01:45:22] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[01:45:23] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[01:45:25] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:45:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:45:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:45:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:45:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:45:25] [Server thread/INFO]: Preparing level "world"
+[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.1
+[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8687003
+[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:45:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:45:27] [Server thread/INFO]: Time elapsed: 1488 ms
+[01:45:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:45:27] [Server thread/INFO]: Time elapsed: 268 ms
+[01:45:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:45:27] [Server thread/INFO]: Time elapsed: 142 ms
+[01:45:27] [Server thread/INFO]: [spark] Starting background profiler...
+[01:45:28] [Server thread/INFO]: Done preparing level "world" (2.931s)
+[01:45:28] [Server thread/INFO]: Running delayed init tasks
+[01:45:28] [Server thread/INFO]: Done (20.275s)! For help, type "help"
+[01:45:28] [Server thread/INFO]: Timings Reset
+[01:46:11] [User Authenticator #0/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
+[01:46:13] [Server thread/INFO]: oOMiluOo joined the game
+[01:46:14] [Server thread/INFO]: oOMiluOo[/127.240.54.189:39757] logged in with entity id 71 at ([world]229.5510123962621, 64.0, 2227.5207084621943)
+[01:47:59] [User Authenticator #1/INFO]: UUID of player R0MDK is ed8eb3e8-50cc-3662-9704-7ca8df28152a
+[01:48:02] [Server thread/INFO]: R0MDK joined the game
+[01:48:02] [Server thread/INFO]: R0MDK[/127.13.255.250:46679] logged in with entity id 707 at ([world]178.30000001192093, 62.0, 2109.8557184151728)
+[01:48:50] [Server thread/INFO]: R0MDK issued server command: /kill
+[01:48:50] [Server thread/INFO]: R0MDK was killed
+[01:48:50] [Server thread/INFO]: [R0MDK: Killed R0MDK]
+[01:49:01] [Server thread/INFO]: oOMiluOo issued server command: /kill
+[01:49:01] [Server thread/INFO]: oOMiluOo was killed
+[01:49:01] [Server thread/INFO]: [oOMiluOo: Killed oOMiluOo]
+[01:52:29] [Server thread/INFO]: oOMiluOo was slain by R0MDK
+[01:53:44] [Server thread/INFO]: R0MDK issued server command: /gamerule keepInventory true
+[01:53:44] [Server thread/INFO]: [R0MDK: Gamerule keepInventory is now set to: true]
+[01:55:20] [Server thread/INFO]: R0MDK issued server command: /locate structure
+[01:55:31] [Server thread/INFO]: R0MDK issued server command: /locate structure minecraft:village_snowy
+[01:57:29] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
+[01:57:29] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
+[01:58:02] [Server thread/INFO]: oOMiluOo was slain by R0MDK
+[01:58:35] [Server thread/INFO]: R0MDK issued server command: /tp @a
+[01:58:46] [Server thread/INFO]: R0MDK issued server command: /tp @a
+[01:58:54] [Server thread/INFO]: R0MDK issued server command: /tp @a oOMiluOo
+[01:58:54] [Server thread/INFO]: [R0MDK: Teleported 2 entities to oOMiluOo]
+[01:59:28] [Server thread/INFO]: R0MDK issued server command: /tp
+[01:59:41] [Server thread/INFO]: Villager Villager['Villager'/1256, uuid='176d6f74-8922-4568-ba7f-047db875ed6d', l='ServerLevel[world]', x=814.70, y=70.00, z=4.70, cpos=[50, 0], tl=49857, v=true] died, message: 'Villager was slain by Zombie'
+[01:59:42] [Server thread/INFO]: R0MDK was slain by Zombie
+[02:00:16] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
+[02:00:16] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
+[02:00:22] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
+[02:00:22] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
+[02:00:23] [Server thread/INFO]: oOMiluOo was slain by R0MDK
+[02:00:29] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
+[02:00:29] [Server thread/INFO]: oOMiluOo left the game
+[02:01:47] [User Authenticator #2/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
+[02:01:49] [Server thread/INFO]: oOMiluOo joined the game
+[02:01:49] [Server thread/INFO]: oOMiluOo[/127.240.54.189:51033] logged in with entity id 4167 at ([world]726.5, 65.0, 139.5)
+[02:02:49] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
+[02:02:49] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
+[02:02:58] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
+[02:02:58] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
+[02:03:04] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
+[02:03:04] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
+[02:03:45] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
+[02:03:45] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
+[02:04:00] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
+[02:04:00] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
+[02:04:39] [Server thread/INFO]: oOMiluOo was slain by R0MDK
+[02:04:46] [Server thread/INFO]: oOMiluOo was slain by R0MDK
+[02:04:49] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
+[02:04:49] [Server thread/INFO]: oOMiluOo left the game

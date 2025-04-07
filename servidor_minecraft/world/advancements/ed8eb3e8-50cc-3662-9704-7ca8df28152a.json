@@ -1446,9 +1446,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-31 03:43:58 +0000",
+      "minecraft:piglin": "2025-04-07 01:50:56 +0000",
       "minecraft:spider": "2025-03-25 04:34:02 +0000",
       "minecraft:zombie": "2025-03-25 04:34:06 +0000",
       "minecraft:creeper": "2025-03-31 04:02:44 +0000",
+      "minecraft:zombie_villager": "2025-04-07 02:02:29 +0000",
       "minecraft:slime": "2025-03-25 04:18:36 +0000",
       "minecraft:hoglin": "2025-03-31 03:11:22 +0000"
     },
@@ -2163,12 +2165,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-03-31 04:04:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-03-31 04:02:43 +0000"
@@ -2178,6 +2174,42 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-03-31 04:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-31 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-07 02:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-04-07 01:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-07 02:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-07 02:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-04-07 01:52:57 +0000"
     },
     "done": true
   },
