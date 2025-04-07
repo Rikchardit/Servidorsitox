@@ -251,3 +251,64 @@ fly r<--[HERE]
 [03:35:02] [Server thread/INFO]: Villager Villager['Farmer'/22252, uuid='99921f10-ddb6-4740-a217-855696eae354', l='ServerLevel[world]', x=232.51, y=64.00, z=278.70, cpos=[14, 17], tl=6321, v=true] died, message: 'Farmer was slain by R0MDK'
 [03:35:22] [Server thread/INFO]: Villager Villager['Farmer'/21913, uuid='dfa0047a-0312-41c7-b1d3-eb2e57641679', l='ServerLevel[world]', x=232.52, y=63.94, z=276.70, cpos=[14, 17], tl=8533, v=true] died, message: 'Farmer was slain by R0MDK'
 [03:36:25] [Server thread/INFO]: Villager Villager['Farmer'/20244, uuid='54b270ca-83e6-44a2-8e01-7725202fa9d7', l='ServerLevel[world]', x=232.50, y=63.94, z=280.30, cpos=[14, 17], tl=18050, v=true] died, message: 'Farmer was slain by R0MDK'
+[03:36:35] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to R0MDK
+[03:36:37] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to R0MDK
+[03:36:52] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to R0MDK
+[03:37:06] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to R0MDK
+[03:37:06] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to R0MDK
+[03:37:52] [Async Chat Thread - #6/INFO]: [Not Secure] <R0MDK> t
+[03:38:10] [Server thread/INFO]: R0MDK issued server command: /enchant R0MDK minecraft:sharpness 5
+[03:38:10] [Server thread/INFO]: [R0MDK: Applied enchantment Sharpness V to R0MDK's item]
+[03:38:21] [Server thread/INFO]: Villager Villager['Villager'/23681, uuid='d220f8ea-c74b-4b84-9cb4-115265ef5658', l='ServerLevel[world]', x=235.59, y=64.00, z=288.49, cpos=[14, 18], tl=1452, v=true] died, message: 'Villager was slain by R0MDK'
+[03:38:25] [Server thread/INFO]: Villager Villager['Villager'/23663, uuid='63ccd87c-1e55-4752-afa5-83c1ae5749f5', l='ServerLevel[world]', x=230.42, y=63.94, z=288.05, cpos=[14, 18], tl=1801, v=true] died, message: 'Villager was slain by R0MDK'
+[03:38:33] [Server thread/INFO]: Villager Villager['Villager'/23687, uuid='cece42bb-17e1-42ea-8b29-54475575d4b2', l='ServerLevel[world]', x=232.50, y=63.94, z=280.30, cpos=[14, 17], tl=1591, v=true] died, message: 'Villager was slain by R0MDK'
+[03:38:36] [Server thread/INFO]: Villager Villager['Villager'/23637, uuid='92ef78b5-44dc-4be3-85cd-c70721bf2d10', l='ServerLevel[world]', x=232.51, y=63.94, z=280.30, cpos=[14, 17], tl=2249, v=true] died, message: 'Villager was slain by R0MDK'
+[03:38:44] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
+[03:38:44] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
+[03:38:59] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
+[03:38:59] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
+[03:39:07] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
+[03:39:07] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
+[03:39:14] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:
+[03:39:42] [User Authenticator #9/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
+[03:39:44] [Server thread/INFO]: oOMiluOo joined the game
+[03:39:44] [Server thread/INFO]: oOMiluOo[/127.240.54.189:45955] logged in with entity id 23987 at ([world]59.69999998807907, -42.0, 184.44964422266682)
+[03:39:45] [Server thread/INFO]: Villager Villager['Farmer'/23905, uuid='eab82c62-4c92-4ab8-90f9-e2681972d0ee', l='ServerLevel[world]', x=238.31, y=63.00, z=251.38, cpos=[14, 15], tl=914, v=true] died, message: 'Farmer was slain by R0MDK'
+[03:40:53] [Server thread/INFO]: Villager Villager['Fletcher'/23629, uuid='0097714f-ccf0-4632-adac-884b54265e92', l='ServerLevel[world]', x=232.52, y=64.00, z=278.70, cpos=[14, 17], tl=5033, v=true] died, message: 'Fletcher was slain by R0MDK'
+[03:40:57] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
+[03:40:57] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
+[03:43:02] [Server thread/INFO]: R0MDK issued server command: /gamerule randomTickSpeed 30
+[03:43:02] [Server thread/INFO]: [R0MDK: Gamerule randomTickSpeed is now set to: 30]
+[03:43:32] [Server thread/INFO]: Villager Villager['Farmer'/21290, uuid='f2111bc5-46c3-4674-98e0-e5630719bd0e', l='ServerLevel[world]', x=218.74, y=64.00, z=275.15, cpos=[13, 17], tl=21392, v=true] died, message: 'Farmer was slain by R0MDK'
+[03:44:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+save<--[HERE]
+[03:44:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+backup<--[HERE]
+[03:44:25] [Server thread/INFO]: Stopping the server
+[03:44:25] [Server thread/INFO]: Stopping server
+[03:44:25] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[03:44:25] [Server thread/INFO]: Saving players
+[03:44:26] [Server thread/INFO]: R0MDK lost connection: Server closed
+[03:44:26] [Server thread/INFO]: R0MDK left the game
+[03:44:26] [Server thread/INFO]: oOMiluOo lost connection: Server closed
+[03:44:26] [Server thread/INFO]: oOMiluOo left the game
+[03:44:26] [Server thread/INFO]: Saving worlds
+[03:44:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Saved 79 block chunks, 420 entity chunks, 2 poi chunks in world 'world' in 0.20s
+[03:44:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Saved 15 block chunks, 53 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
+[03:44:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[03:44:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:44:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:44:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:44:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
