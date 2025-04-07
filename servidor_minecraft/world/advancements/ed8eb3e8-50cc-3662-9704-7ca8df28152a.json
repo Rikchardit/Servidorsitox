@@ -2418,7 +2418,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-04-07 02:50:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-07 02:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-07 02:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-04-07 02:51:00 +0000"
     },
@@ -2448,21 +2466,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
-      "has_rail": "2025-04-07 02:51:00 +0000"
+      "has_iron_ore": "2025-04-07 02:58:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
-      "has_rail": "2025-04-07 02:51:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_the_recipe": "2025-04-07 02:50:59 +0000"
+      "has_iron_ore": "2025-04-07 02:58:02 +0000"
     },
     "done": true
   },

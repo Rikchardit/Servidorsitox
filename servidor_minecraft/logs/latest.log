@@ -165,3 +165,22 @@
 [02:55:29] [User Authenticator #6/INFO]: UUID of player R0MDK is ed8eb3e8-50cc-3662-9704-7ca8df28152a
 [02:55:32] [Server thread/INFO]: R0MDK joined the game
 [02:55:32] [Server thread/INFO]: R0MDK[/127.13.255.250:58655] logged in with entity id 15083 at ([world]227.91586960473373, 66.0, 277.67737994672456)
+[02:56:20] [Server thread/INFO]: Nothing changed. The player is not an operator
+[02:56:32] [Server thread/INFO]: Made oOMiluOo no longer a server operator
+[02:57:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/give R0MDK minecraft:iron_ore 33<--[HERE]
+[02:57:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/give R0MDK minecraft:iron_ore<--[HERE]
+[02:57:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/give R0MDK minecraft:diamond<--[HERE]
+[02:58:02] [Server thread/INFO]: Gave 1 [Iron Ore] to R0MDK
+[02:58:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+save<--[HERE]
+[02:58:48] [Server thread/INFO]: R0MDK issued server command: /save-all
+[02:58:48] [Server thread/INFO]: [R0MDK: Saved the game]
+[02:59:21] [Server thread/INFO]: Gave 444 [Raw Iron] to R0MDK
+[02:59:47] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
+[02:59:47] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
+[03:03:56] [Server thread/INFO]: oOMiluOo was slain by Zombie
+[03:05:02] [Server thread/INFO]: R0MDK was slain by Enderman
+[03:05:22] [Server thread/INFO]: Set the time to 1000
