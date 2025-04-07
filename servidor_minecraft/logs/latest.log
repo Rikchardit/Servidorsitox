@@ -113,3 +113,13 @@
 [02:05:34] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
 [02:05:39] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
 [02:05:39] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
+[02:15:44] [Async Chat Thread - #0/INFO]: [Not Secure] <R0MDK> zzzzzzzzzzzzzzzzzzzzz
+[02:15:47] [Async Chat Thread - #0/INFO]: [Not Secure] <R0MDK> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[02:18:08] [Async Chat Thread - #2/INFO]: [Not Secure] <oOMiluOo> no
+[02:20:54] [Server thread/INFO]: oOMiluOo issued server command: /tp
+[02:21:04] [Server thread/INFO]: oOMiluOo issued server command: /tp R0MDK
+[02:21:04] [Server thread/INFO]: [oOMiluOo: Teleported oOMiluOo to R0MDK]
+[02:22:12] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
+[02:22:12] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
+[02:24:08] [Async Chat Thread - #4/INFO]: [Not Secure] <R0MDK> me cuelgo
+[02:24:46] [Server thread/WARN]: R0MDK moved wrongly!
