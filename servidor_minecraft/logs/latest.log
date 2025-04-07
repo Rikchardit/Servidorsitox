@@ -106,3 +106,10 @@
 [02:04:46] [Server thread/INFO]: oOMiluOo was slain by R0MDK
 [02:04:49] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
 [02:04:49] [Server thread/INFO]: oOMiluOo left the game
+[02:05:21] [User Authenticator #3/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
+[02:05:24] [Server thread/INFO]: oOMiluOo joined the game
+[02:05:24] [Server thread/INFO]: oOMiluOo[/127.240.54.189:51495] logged in with entity id 4948 at ([world]54.5, 70.0, 178.5)
+[02:05:34] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
+[02:05:34] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
+[02:05:39] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
+[02:05:39] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
