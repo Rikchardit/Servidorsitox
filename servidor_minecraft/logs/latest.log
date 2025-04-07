@@ -230,3 +230,24 @@ save<--[HERE]
 [03:25:51] [Server thread/INFO]: R0MDK issued server command: /fly
 [03:25:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
 fly r<--[HERE]
+[03:27:49] [Server thread/INFO]: Villager Villager['Farmer'/20565, uuid='89a06892-fdac-404f-8c5d-692ac711f952', l='ServerLevel[world]', x=228.50, y=63.94, z=270.26, cpos=[14, 16], tl=6098, v=true] died, message: 'Farmer was slain by R0MDK'
+[03:28:12] [Server thread/INFO]: Villager Villager['Villager'/21819, uuid='c43d0d5a-9790-4975-b98c-e393e8596947', l='ServerLevel[world]', x=232.81, y=64.00, z=276.70, cpos=[14, 17], tl=433, v=true] died, message: 'Villager was slain by R0MDK'
+[03:28:15] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
+[03:28:15] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
+[03:28:46] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
+[03:28:46] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
+[03:28:58] [Server thread/INFO]: Villager Villager['Farmer'/22030, uuid='d657e7e6-deba-448e-928b-fbe038c027f8', l='ServerLevel[world]', x=199.82, y=70.00, z=282.46, cpos=[12, 17], tl=244, v=true] died, message: 'Farmer was slain by R0MDK'
+[03:29:46] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
+[03:29:46] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
+[03:29:52] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
+[03:29:52] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
+[03:32:49] [Server thread/INFO]: Unknown item 'minecraft:bed'
+...ive R0MDK minecraft:bed<--[HERE]
+[03:33:37] [Server thread/INFO]: Gave 1 [White Bed] to R0MDK
+[03:33:39] [Server thread/INFO]: Gave 1 [White Bed] to R0MDK
+[03:33:39] [Server thread/INFO]: Gave 1 [White Bed] to R0MDK
+[03:34:10] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
+[03:34:10] [Server thread/INFO]: oOMiluOo left the game
+[03:35:02] [Server thread/INFO]: Villager Villager['Farmer'/22252, uuid='99921f10-ddb6-4740-a217-855696eae354', l='ServerLevel[world]', x=232.51, y=64.00, z=278.70, cpos=[14, 17], tl=6321, v=true] died, message: 'Farmer was slain by R0MDK'
+[03:35:22] [Server thread/INFO]: Villager Villager['Farmer'/21913, uuid='dfa0047a-0312-41c7-b1d3-eb2e57641679', l='ServerLevel[world]', x=232.52, y=63.94, z=276.70, cpos=[14, 17], tl=8533, v=true] died, message: 'Farmer was slain by R0MDK'
+[03:36:25] [Server thread/INFO]: Villager Villager['Farmer'/20244, uuid='54b270ca-83e6-44a2-8e01-7725202fa9d7', l='ServerLevel[world]', x=232.50, y=63.94, z=280.30, cpos=[14, 17], tl=18050, v=true] died, message: 'Farmer was slain by R0MDK'
