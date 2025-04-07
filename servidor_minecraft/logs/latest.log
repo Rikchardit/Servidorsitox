@@ -198,3 +198,35 @@ save<--[HERE]
 [03:14:45] [Server thread/INFO]: Villager Villager['Villager'/19358, uuid='b8cd01d3-3a63-47aa-9762-7d158dc841b7', l='ServerLevel[world]', x=222.24, y=64.00, z=287.41, cpos=[13, 17], tl=1040, v=true] died, message: 'Villager was slain by R0MDK'
 [03:15:11] [Server thread/INFO]: Villager Villager['Villager'/19368, uuid='2e6fcff6-f7e4-4871-a47f-5a39ee8acfe1', l='ServerLevel[world]', x=232.49, y=63.94, z=276.70, cpos=[14, 17], tl=1500, v=true] died, message: 'Villager was slain by R0MDK'
 [03:15:33] [Server thread/INFO]: Gave 2 [Villager Spawn Egg] to R0MDK
+[03:16:31] [Server thread/INFO]: Gave 2 [Villager Spawn Egg] to R0MDK
+[03:17:02] [Server thread/INFO]: Villager Villager['Villager'/19598, uuid='93f60047-3b1b-4242-b232-4d895702b46f', l='ServerLevel[world]', x=225.49, y=65.00, z=301.87, cpos=[14, 18], tl=1713, v=true] died, message: 'Villager was slain by R0MDK'
+[03:17:59] [Server thread/INFO]: Villager Villager['Villager'/19641, uuid='27d38c76-5d99-46ed-b565-59a1793e462d', l='ServerLevel[world]', x=232.49, y=63.94, z=280.30, cpos=[14, 17], tl=2546, v=true] died, message: 'Villager was slain by R0MDK'
+[03:18:17] [Server thread/INFO]: Villager Villager['Villager'/19904, uuid='758de824-d441-4513-9cad-e130251a86cc', l='ServerLevel[world]', x=233.32, y=64.00, z=280.33, cpos=[14, 17], tl=256, v=true] died, message: 'Villager was slain by R0MDK'
+[03:19:03] [Server thread/INFO]: R0MDK issued server command: /summon Villager ~ ~ ~ {Profession:0, Career:1}
+[03:19:36] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{level:1,profession:"minecraft:farmer",type:"minecraft:plains"}}
+[03:19:36] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
+[03:19:43] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{level:1,profession:"minecraft:farmer",type:"minecraft:plains"}}
+[03:19:43] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
+[03:19:55] [Server thread/INFO]: Villager Villager['Villager'/20059, uuid='643c461c-1cec-479b-8d6c-a2f11d94fe5d', l='ServerLevel[world]', x=232.36, y=63.94, z=280.30, cpos=[14, 17], tl=391, v=true] died, message: 'Villager was slain by R0MDK'
+[03:20:04] [Server thread/INFO]: Villager Villager['Villager'/20071, uuid='3cb63ed8-a9b2-4468-99ee-4ac18276eb32', l='ServerLevel[world]', x=234.30, y=63.94, z=288.55, cpos=[14, 18], tl=434, v=true] died, message: 'Villager was slain by R0MDK'
+[03:21:23] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
+[03:21:23] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
+[03:21:39] [User Authenticator #7/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
+[03:21:42] [Server thread/INFO]: oOMiluOo joined the game
+[03:21:42] [Server thread/INFO]: oOMiluOo[/127.240.54.189:45989] logged in with entity id 20283 at ([world]47.65959847017775, -42.0, 177.02780403595477)
+[03:22:15] [Server thread/INFO]: Summoned new Farmer
+[03:22:37] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
+[03:22:37] [Server thread/INFO]: oOMiluOo left the game
+[03:22:44] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
+[03:22:44] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
+[03:23:04] [User Authenticator #8/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
+[03:23:06] [Server thread/INFO]: oOMiluOo joined the game
+[03:23:06] [Server thread/INFO]: oOMiluOo[/127.240.54.189:59359] logged in with entity id 20606 at ([world]50.52876738040925, -42.0, 179.18953541226145)
+[03:24:15] [Server thread/INFO]: Set the time to 1000
+[03:25:09] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to R0MDK
+[03:25:33] [Server thread/INFO]: Villager Villager['Villager'/18727, uuid='1d1329a6-983b-4869-bbd4-c28ecc1d05ac', l='ServerLevel[world]', x=232.30, y=63.80, z=278.70, cpos=[14, 17], tl=17100, v=true] died, message: 'Villager was slain by R0MDK'
+[03:25:42] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
+[03:25:42] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
+[03:25:51] [Server thread/INFO]: R0MDK issued server command: /fly
+[03:25:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
+fly r<--[HERE]
