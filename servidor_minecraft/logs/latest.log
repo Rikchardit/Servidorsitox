@@ -66,3 +66,18 @@
 [03:39:01] [Server thread/INFO]: R0MDK joined the game
 [03:39:01] [Server thread/INFO]: R0MDK[/127.13.255.250:40347] logged in with entity id 15142 at ([world]-569.4583841200786, 70.0, -64.23449801485381)
 [03:41:05] [Server thread/INFO]: oOMiluOo has made the advancement [Best Friends Forever]
+[03:46:47] [Server thread/INFO]: R0MDK issued server command: /tp R0MDK oOMiluOo
+[03:46:47] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
+[03:47:12] [Server thread/INFO]: R0MDK issued server command: /tp @s -567 71.5 -54
+[03:47:12] [Server thread/INFO]: [R0MDK: Teleported R0MDK to -566.500000, 71.500000, -53.500000]
+[03:47:22] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo R0MDK
+[03:47:22] [Server thread/INFO]: [R0MDK: Teleported oOMiluOo to R0MDK]
+[03:50:43] [Server thread/INFO]: R0MDK lost connection: Disconnected
+[03:50:43] [Server thread/INFO]: R0MDK left the game
+[03:51:27] [User Authenticator #4/INFO]: UUID of player R0MDK is 5579493a-da40-4eb6-8af6-e66bf3b2174b
+[03:51:29] [Server thread/INFO]: R0MDK joined the game
+[03:51:29] [Server thread/INFO]: R0MDK[/127.13.255.250:59875] logged in with entity id 20726 at ([world]-563.4344960790974, 71.0, -65.24507638806026)
+[03:53:10] [Server thread/INFO]: R0MDK lost connection: Disconnected
+[03:53:10] [Server thread/INFO]: R0MDK left the game
+[03:53:15] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
+[03:53:15] [Server thread/INFO]: oOMiluOo left the game
