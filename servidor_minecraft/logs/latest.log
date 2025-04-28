@@ -1,314 +1,50 @@
-[01:45:09] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[01:45:09] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[01:45:09] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:45:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[01:45:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
- - SkinsRestorer (15.6.1)
-[01:45:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:45:18] [ServerMain/INFO]: Loaded 1290 recipes
-[01:45:18] [ServerMain/INFO]: Loaded 1399 advancements
-[01:45:19] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:45:19] [Server thread/INFO]: Loading properties
-[01:45:19] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[01:45:20] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:45:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:45:20] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:45:21] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[01:45:21] [Server thread/INFO]: Default game type: SURVIVAL
-[01:45:21] [Server thread/INFO]: Generating keypair
-[01:45:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:45:21] [Server thread/INFO]: Using epoll channel type
-[01:45:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:45:21] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:45:21] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.1
-[01:45:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:45:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
-[01:45:22] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[01:45:23] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[01:45:25] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:45:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:45:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:45:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:45:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:45:25] [Server thread/INFO]: Preparing level "world"
-[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.1
-[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8687003
-[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:45:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:45:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:45:27] [Server thread/INFO]: Time elapsed: 1488 ms
-[01:45:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:45:27] [Server thread/INFO]: Time elapsed: 268 ms
-[01:45:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:45:27] [Server thread/INFO]: Time elapsed: 142 ms
-[01:45:27] [Server thread/INFO]: [spark] Starting background profiler...
-[01:45:28] [Server thread/INFO]: Done preparing level "world" (2.931s)
-[01:45:28] [Server thread/INFO]: Running delayed init tasks
-[01:45:28] [Server thread/INFO]: Done (20.275s)! For help, type "help"
-[01:45:28] [Server thread/INFO]: Timings Reset
-[01:46:11] [User Authenticator #0/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
-[01:46:13] [Server thread/INFO]: oOMiluOo joined the game
-[01:46:14] [Server thread/INFO]: oOMiluOo[/127.240.54.189:39757] logged in with entity id 71 at ([world]229.5510123962621, 64.0, 2227.5207084621943)
-[01:47:59] [User Authenticator #1/INFO]: UUID of player R0MDK is ed8eb3e8-50cc-3662-9704-7ca8df28152a
-[01:48:02] [Server thread/INFO]: R0MDK joined the game
-[01:48:02] [Server thread/INFO]: R0MDK[/127.13.255.250:46679] logged in with entity id 707 at ([world]178.30000001192093, 62.0, 2109.8557184151728)
-[01:48:50] [Server thread/INFO]: R0MDK issued server command: /kill
-[01:48:50] [Server thread/INFO]: R0MDK was killed
-[01:48:50] [Server thread/INFO]: [R0MDK: Killed R0MDK]
-[01:49:01] [Server thread/INFO]: oOMiluOo issued server command: /kill
-[01:49:01] [Server thread/INFO]: oOMiluOo was killed
-[01:49:01] [Server thread/INFO]: [oOMiluOo: Killed oOMiluOo]
-[01:52:29] [Server thread/INFO]: oOMiluOo was slain by R0MDK
-[01:53:44] [Server thread/INFO]: R0MDK issued server command: /gamerule keepInventory true
-[01:53:44] [Server thread/INFO]: [R0MDK: Gamerule keepInventory is now set to: true]
-[01:55:20] [Server thread/INFO]: R0MDK issued server command: /locate structure
-[01:55:31] [Server thread/INFO]: R0MDK issued server command: /locate structure minecraft:village_snowy
-[01:57:29] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[01:57:29] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[01:58:02] [Server thread/INFO]: oOMiluOo was slain by R0MDK
-[01:58:35] [Server thread/INFO]: R0MDK issued server command: /tp @a
-[01:58:46] [Server thread/INFO]: R0MDK issued server command: /tp @a
-[01:58:54] [Server thread/INFO]: R0MDK issued server command: /tp @a oOMiluOo
-[01:58:54] [Server thread/INFO]: [R0MDK: Teleported 2 entities to oOMiluOo]
-[01:59:28] [Server thread/INFO]: R0MDK issued server command: /tp
-[01:59:41] [Server thread/INFO]: Villager Villager['Villager'/1256, uuid='176d6f74-8922-4568-ba7f-047db875ed6d', l='ServerLevel[world]', x=814.70, y=70.00, z=4.70, cpos=[50, 0], tl=49857, v=true] died, message: 'Villager was slain by Zombie'
-[01:59:42] [Server thread/INFO]: R0MDK was slain by Zombie
-[02:00:16] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[02:00:16] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[02:00:22] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[02:00:22] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[02:00:23] [Server thread/INFO]: oOMiluOo was slain by R0MDK
-[02:00:29] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
-[02:00:29] [Server thread/INFO]: oOMiluOo left the game
-[02:01:47] [User Authenticator #2/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
-[02:01:49] [Server thread/INFO]: oOMiluOo joined the game
-[02:01:49] [Server thread/INFO]: oOMiluOo[/127.240.54.189:51033] logged in with entity id 4167 at ([world]726.5, 65.0, 139.5)
-[02:02:49] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
-[02:02:49] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
-[02:02:58] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
-[02:02:58] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
-[02:03:04] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
-[02:03:04] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
-[02:03:45] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
-[02:03:45] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
-[02:04:00] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
-[02:04:00] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
-[02:04:39] [Server thread/INFO]: oOMiluOo was slain by R0MDK
-[02:04:46] [Server thread/INFO]: oOMiluOo was slain by R0MDK
-[02:04:49] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
-[02:04:49] [Server thread/INFO]: oOMiluOo left the game
-[02:05:21] [User Authenticator #3/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
-[02:05:24] [Server thread/INFO]: oOMiluOo joined the game
-[02:05:24] [Server thread/INFO]: oOMiluOo[/127.240.54.189:51495] logged in with entity id 4948 at ([world]54.5, 70.0, 178.5)
-[02:05:34] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
-[02:05:34] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
-[02:05:39] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
-[02:05:39] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
-[02:15:44] [Async Chat Thread - #0/INFO]: [Not Secure] <R0MDK> zzzzzzzzzzzzzzzzzzzzz
-[02:15:47] [Async Chat Thread - #0/INFO]: [Not Secure] <R0MDK> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[02:18:08] [Async Chat Thread - #2/INFO]: [Not Secure] <oOMiluOo> no
-[02:20:54] [Server thread/INFO]: oOMiluOo issued server command: /tp
-[02:21:04] [Server thread/INFO]: oOMiluOo issued server command: /tp R0MDK
-[02:21:04] [Server thread/INFO]: [oOMiluOo: Teleported oOMiluOo to R0MDK]
-[02:22:12] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[02:22:12] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[02:24:08] [Async Chat Thread - #4/INFO]: [Not Secure] <R0MDK> me cuelgo
-[02:24:46] [Server thread/WARN]: R0MDK moved wrongly!
-[02:27:15] [Server thread/INFO]: R0MDK lost connection: Disconnected
-[02:27:15] [Server thread/INFO]: R0MDK left the game
-[02:27:24] [User Authenticator #4/INFO]: UUID of player R0MDK is ed8eb3e8-50cc-3662-9704-7ca8df28152a
-[02:27:26] [Server thread/INFO]: R0MDK joined the game
-[02:27:26] [Server thread/INFO]: R0MDK[/127.13.255.250:51241] logged in with entity id 8944 at ([world]95.79546319949318, 70.0, 124.25192757665953)
-[02:28:27] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[02:28:27] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[02:28:35] [Server thread/INFO]: R0MDK issued server command: /tp @a @s
-[02:28:35] [Server thread/INFO]: [R0MDK: Teleported 2 entities to R0MDK]
-[02:29:13] [Server thread/INFO]: R0MDK issued server command: /enchant R0MDK minecraft:sharpness 5
-[02:29:28] [Server thread/INFO]: oOMiluOo drowned
-[02:33:07] [Server thread/INFO]: R0MDK issued server command: /tick
-[02:33:14] [Server thread/INFO]: R0MDK issued server command: /tick rate
-[02:33:19] [Server thread/INFO]: R0MDK issued server command: /tick rate 60
-[02:33:19] [Server thread/INFO]: [R0MDK: Set the target tick rate to 60.0 per second]
-[02:35:18] [Server thread/INFO]: oOMiluOo was slain by Spider
-[02:35:28] [Server thread/INFO]: R0MDK issued server command: /tick rate 20
-[02:35:28] [Server thread/INFO]: [R0MDK: Set the target tick rate to 20.0 per second]
-[02:36:00] [Server thread/INFO]: R0MDK issued server command: /gamerule randomTickSpeed
-[02:36:02] [Server thread/INFO]: R0MDK issued server command: /gamerule randomTickSpeed 10
-[02:36:02] [Server thread/INFO]: [R0MDK: Gamerule randomTickSpeed is now set to: 10]
-[02:36:18] [Server thread/INFO]: oOMiluOo was slain by Zombie
-[02:36:28] [Server thread/INFO]: R0MDK lost connection: Disconnected
-[02:36:28] [Server thread/INFO]: R0MDK left the game
-[02:36:34] [User Authenticator #5/INFO]: UUID of player R0MDK is ed8eb3e8-50cc-3662-9704-7ca8df28152a
-[02:36:36] [Server thread/INFO]: R0MDK joined the game
-[02:36:36] [Server thread/INFO]: R0MDK[/127.13.255.250:39833] logged in with entity id 11490 at ([world]236.3283610555233, 64.0, 278.30000001192093)
-[02:37:17] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[02:37:17] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[02:40:04] [Server thread/INFO]: R0MDK issued server command: /gamerule randomTickSpeed 20
-[02:40:04] [Server thread/INFO]: [R0MDK: Gamerule randomTickSpeed is now set to: 20]
-[02:40:15] [Server thread/INFO]: R0MDK issued server command: /gamerule randomTickSpeed 10
-[02:40:15] [Server thread/INFO]: [R0MDK: Gamerule randomTickSpeed is now set to: 10]
-[02:45:50] [Server thread/INFO]: R0MDK issued server command: /gamerule randomTickSpeed 15
-[02:45:50] [Server thread/INFO]: [R0MDK: Gamerule randomTickSpeed is now set to: 15]
-[02:45:51] [Server thread/INFO]: oOMiluOo issued server command: /tp R0MDK
-[02:45:51] [Server thread/INFO]: [oOMiluOo: Teleported oOMiluOo to R0MDK]
-[02:55:11] [Server thread/INFO]: R0MDK lost connection: Disconnected
-[02:55:11] [Server thread/INFO]: R0MDK left the game
-[02:55:29] [User Authenticator #6/INFO]: UUID of player R0MDK is ed8eb3e8-50cc-3662-9704-7ca8df28152a
-[02:55:32] [Server thread/INFO]: R0MDK joined the game
-[02:55:32] [Server thread/INFO]: R0MDK[/127.13.255.250:58655] logged in with entity id 15083 at ([world]227.91586960473373, 66.0, 277.67737994672456)
-[02:56:20] [Server thread/INFO]: Nothing changed. The player is not an operator
-[02:56:32] [Server thread/INFO]: Made oOMiluOo no longer a server operator
-[02:57:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/give R0MDK minecraft:iron_ore 33<--[HERE]
-[02:57:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/give R0MDK minecraft:iron_ore<--[HERE]
-[02:57:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/give R0MDK minecraft:diamond<--[HERE]
-[02:58:02] [Server thread/INFO]: Gave 1 [Iron Ore] to R0MDK
-[02:58:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
-save<--[HERE]
-[02:58:48] [Server thread/INFO]: R0MDK issued server command: /save-all
-[02:58:48] [Server thread/INFO]: [R0MDK: Saved the game]
-[02:59:21] [Server thread/INFO]: Gave 444 [Raw Iron] to R0MDK
-[02:59:47] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[02:59:47] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[03:03:56] [Server thread/INFO]: oOMiluOo was slain by Zombie
-[03:05:02] [Server thread/INFO]: R0MDK was slain by Enderman
-[03:05:22] [Server thread/INFO]: Set the time to 1000
-[03:10:58] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to R0MDK
-[03:11:03] [Server thread/INFO]: Gave 2 [Villager Spawn Egg] to R0MDK
-[03:12:24] [Server thread/INFO]: Villager Villager['Fletcher'/18697, uuid='8b831d38-72b7-4f48-9cf0-a14054c522a9', l='ServerLevel[world]', x=232.50, y=64.00, z=276.70, cpos=[14, 17], tl=1440, v=true] died, message: 'Fletcher was slain by R0MDK'
-[03:12:53] [Server thread/INFO]: Villager Villager['Fletcher'/18742, uuid='18c481a3-c6ec-4454-9a66-51613eb55210', l='ServerLevel[world]', x=229.24, y=63.94, z=288.51, cpos=[14, 18], tl=1802, v=true] died, message: 'Fletcher was slain by R0MDK'
-[03:13:02] [Server thread/INFO]: Gave 2 [Villager Spawn Egg] to R0MDK
-[03:13:44] [Server thread/INFO]: Villager Villager['Villager'/19163, uuid='dd8b2d7f-9bb0-465d-9fbb-e503743ffd3c', l='ServerLevel[world]', x=232.52, y=63.94, z=280.30, cpos=[14, 17], tl=752, v=true] died, message: 'Villager was slain by R0MDK'
-[03:13:49] [Server thread/INFO]: Gave 2 [Villager Spawn Egg] to R0MDK
-[03:14:04] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
-[03:14:04] [Server thread/INFO]: oOMiluOo left the game
-[03:14:43] [Server thread/INFO]: R0MDK issued server command: /time set day
-[03:14:43] [Server thread/INFO]: [R0MDK: Set the time to 1000]
-[03:14:45] [Server thread/INFO]: Villager Villager['Villager'/19358, uuid='b8cd01d3-3a63-47aa-9762-7d158dc841b7', l='ServerLevel[world]', x=222.24, y=64.00, z=287.41, cpos=[13, 17], tl=1040, v=true] died, message: 'Villager was slain by R0MDK'
-[03:15:11] [Server thread/INFO]: Villager Villager['Villager'/19368, uuid='2e6fcff6-f7e4-4871-a47f-5a39ee8acfe1', l='ServerLevel[world]', x=232.49, y=63.94, z=276.70, cpos=[14, 17], tl=1500, v=true] died, message: 'Villager was slain by R0MDK'
-[03:15:33] [Server thread/INFO]: Gave 2 [Villager Spawn Egg] to R0MDK
-[03:16:31] [Server thread/INFO]: Gave 2 [Villager Spawn Egg] to R0MDK
-[03:17:02] [Server thread/INFO]: Villager Villager['Villager'/19598, uuid='93f60047-3b1b-4242-b232-4d895702b46f', l='ServerLevel[world]', x=225.49, y=65.00, z=301.87, cpos=[14, 18], tl=1713, v=true] died, message: 'Villager was slain by R0MDK'
-[03:17:59] [Server thread/INFO]: Villager Villager['Villager'/19641, uuid='27d38c76-5d99-46ed-b565-59a1793e462d', l='ServerLevel[world]', x=232.49, y=63.94, z=280.30, cpos=[14, 17], tl=2546, v=true] died, message: 'Villager was slain by R0MDK'
-[03:18:17] [Server thread/INFO]: Villager Villager['Villager'/19904, uuid='758de824-d441-4513-9cad-e130251a86cc', l='ServerLevel[world]', x=233.32, y=64.00, z=280.33, cpos=[14, 17], tl=256, v=true] died, message: 'Villager was slain by R0MDK'
-[03:19:03] [Server thread/INFO]: R0MDK issued server command: /summon Villager ~ ~ ~ {Profession:0, Career:1}
-[03:19:36] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{level:1,profession:"minecraft:farmer",type:"minecraft:plains"}}
-[03:19:36] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
-[03:19:43] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{level:1,profession:"minecraft:farmer",type:"minecraft:plains"}}
-[03:19:43] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
-[03:19:55] [Server thread/INFO]: Villager Villager['Villager'/20059, uuid='643c461c-1cec-479b-8d6c-a2f11d94fe5d', l='ServerLevel[world]', x=232.36, y=63.94, z=280.30, cpos=[14, 17], tl=391, v=true] died, message: 'Villager was slain by R0MDK'
-[03:20:04] [Server thread/INFO]: Villager Villager['Villager'/20071, uuid='3cb63ed8-a9b2-4468-99ee-4ac18276eb32', l='ServerLevel[world]', x=234.30, y=63.94, z=288.55, cpos=[14, 18], tl=434, v=true] died, message: 'Villager was slain by R0MDK'
-[03:21:23] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
-[03:21:23] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
-[03:21:39] [User Authenticator #7/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
-[03:21:42] [Server thread/INFO]: oOMiluOo joined the game
-[03:21:42] [Server thread/INFO]: oOMiluOo[/127.240.54.189:45989] logged in with entity id 20283 at ([world]47.65959847017775, -42.0, 177.02780403595477)
-[03:22:15] [Server thread/INFO]: Summoned new Farmer
-[03:22:37] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
-[03:22:37] [Server thread/INFO]: oOMiluOo left the game
-[03:22:44] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
-[03:22:44] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
-[03:23:04] [User Authenticator #8/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
-[03:23:06] [Server thread/INFO]: oOMiluOo joined the game
-[03:23:06] [Server thread/INFO]: oOMiluOo[/127.240.54.189:59359] logged in with entity id 20606 at ([world]50.52876738040925, -42.0, 179.18953541226145)
-[03:24:15] [Server thread/INFO]: Set the time to 1000
-[03:25:09] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to R0MDK
-[03:25:33] [Server thread/INFO]: Villager Villager['Villager'/18727, uuid='1d1329a6-983b-4869-bbd4-c28ecc1d05ac', l='ServerLevel[world]', x=232.30, y=63.80, z=278.70, cpos=[14, 17], tl=17100, v=true] died, message: 'Villager was slain by R0MDK'
-[03:25:42] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
-[03:25:42] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
-[03:25:51] [Server thread/INFO]: R0MDK issued server command: /fly
-[03:25:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
-fly r<--[HERE]
-[03:27:49] [Server thread/INFO]: Villager Villager['Farmer'/20565, uuid='89a06892-fdac-404f-8c5d-692ac711f952', l='ServerLevel[world]', x=228.50, y=63.94, z=270.26, cpos=[14, 16], tl=6098, v=true] died, message: 'Farmer was slain by R0MDK'
-[03:28:12] [Server thread/INFO]: Villager Villager['Villager'/21819, uuid='c43d0d5a-9790-4975-b98c-e393e8596947', l='ServerLevel[world]', x=232.81, y=64.00, z=276.70, cpos=[14, 17], tl=433, v=true] died, message: 'Villager was slain by R0MDK'
-[03:28:15] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
-[03:28:15] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
-[03:28:46] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
-[03:28:46] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
-[03:28:58] [Server thread/INFO]: Villager Villager['Farmer'/22030, uuid='d657e7e6-deba-448e-928b-fbe038c027f8', l='ServerLevel[world]', x=199.82, y=70.00, z=282.46, cpos=[12, 17], tl=244, v=true] died, message: 'Farmer was slain by R0MDK'
-[03:29:46] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
-[03:29:46] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
-[03:29:52] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo
-[03:29:52] [Server thread/INFO]: [R0MDK: Teleported R0MDK to oOMiluOo]
-[03:32:49] [Server thread/INFO]: Unknown item 'minecraft:bed'
-...ive R0MDK minecraft:bed<--[HERE]
-[03:33:37] [Server thread/INFO]: Gave 1 [White Bed] to R0MDK
-[03:33:39] [Server thread/INFO]: Gave 1 [White Bed] to R0MDK
-[03:33:39] [Server thread/INFO]: Gave 1 [White Bed] to R0MDK
-[03:34:10] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
-[03:34:10] [Server thread/INFO]: oOMiluOo left the game
-[03:35:02] [Server thread/INFO]: Villager Villager['Farmer'/22252, uuid='99921f10-ddb6-4740-a217-855696eae354', l='ServerLevel[world]', x=232.51, y=64.00, z=278.70, cpos=[14, 17], tl=6321, v=true] died, message: 'Farmer was slain by R0MDK'
-[03:35:22] [Server thread/INFO]: Villager Villager['Farmer'/21913, uuid='dfa0047a-0312-41c7-b1d3-eb2e57641679', l='ServerLevel[world]', x=232.52, y=63.94, z=276.70, cpos=[14, 17], tl=8533, v=true] died, message: 'Farmer was slain by R0MDK'
-[03:36:25] [Server thread/INFO]: Villager Villager['Farmer'/20244, uuid='54b270ca-83e6-44a2-8e01-7725202fa9d7', l='ServerLevel[world]', x=232.50, y=63.94, z=280.30, cpos=[14, 17], tl=18050, v=true] died, message: 'Farmer was slain by R0MDK'
-[03:36:35] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to R0MDK
-[03:36:37] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to R0MDK
-[03:36:52] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to R0MDK
-[03:37:06] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to R0MDK
-[03:37:06] [Server thread/INFO]: Gave 1 [Villager Spawn Egg] to R0MDK
-[03:37:52] [Async Chat Thread - #6/INFO]: [Not Secure] <R0MDK> t
-[03:38:10] [Server thread/INFO]: R0MDK issued server command: /enchant R0MDK minecraft:sharpness 5
-[03:38:10] [Server thread/INFO]: [R0MDK: Applied enchantment Sharpness V to R0MDK's item]
-[03:38:21] [Server thread/INFO]: Villager Villager['Villager'/23681, uuid='d220f8ea-c74b-4b84-9cb4-115265ef5658', l='ServerLevel[world]', x=235.59, y=64.00, z=288.49, cpos=[14, 18], tl=1452, v=true] died, message: 'Villager was slain by R0MDK'
-[03:38:25] [Server thread/INFO]: Villager Villager['Villager'/23663, uuid='63ccd87c-1e55-4752-afa5-83c1ae5749f5', l='ServerLevel[world]', x=230.42, y=63.94, z=288.05, cpos=[14, 18], tl=1801, v=true] died, message: 'Villager was slain by R0MDK'
-[03:38:33] [Server thread/INFO]: Villager Villager['Villager'/23687, uuid='cece42bb-17e1-42ea-8b29-54475575d4b2', l='ServerLevel[world]', x=232.50, y=63.94, z=280.30, cpos=[14, 17], tl=1591, v=true] died, message: 'Villager was slain by R0MDK'
-[03:38:36] [Server thread/INFO]: Villager Villager['Villager'/23637, uuid='92ef78b5-44dc-4be3-85cd-c70721bf2d10', l='ServerLevel[world]', x=232.51, y=63.94, z=280.30, cpos=[14, 17], tl=2249, v=true] died, message: 'Villager was slain by R0MDK'
-[03:38:44] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
-[03:38:44] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
-[03:38:59] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
-[03:38:59] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
-[03:39:07] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
-[03:39:07] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
-[03:39:14] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:
-[03:39:42] [User Authenticator #9/INFO]: UUID of player oOMiluOo is 860d4668-2df6-3277-acd4-2fe9b880388d
-[03:39:44] [Server thread/INFO]: oOMiluOo joined the game
-[03:39:44] [Server thread/INFO]: oOMiluOo[/127.240.54.189:45955] logged in with entity id 23987 at ([world]59.69999998807907, -42.0, 184.44964422266682)
-[03:39:45] [Server thread/INFO]: Villager Villager['Farmer'/23905, uuid='eab82c62-4c92-4ab8-90f9-e2681972d0ee', l='ServerLevel[world]', x=238.31, y=63.00, z=251.38, cpos=[14, 15], tl=914, v=true] died, message: 'Farmer was slain by R0MDK'
-[03:40:53] [Server thread/INFO]: Villager Villager['Fletcher'/23629, uuid='0097714f-ccf0-4632-adac-884b54265e92', l='ServerLevel[world]', x=232.52, y=64.00, z=278.70, cpos=[14, 17], tl=5033, v=true] died, message: 'Fletcher was slain by R0MDK'
-[03:40:57] [Server thread/INFO]: R0MDK issued server command: /summon minecraft:villager ~ ~ ~ {VillagerData:{type:"minecraft:plains",profession:"minecraft:farmer",level:2}}
-[03:40:57] [Server thread/INFO]: [R0MDK: Summoned new Farmer]
-[03:43:02] [Server thread/INFO]: R0MDK issued server command: /gamerule randomTickSpeed 30
-[03:43:02] [Server thread/INFO]: [R0MDK: Gamerule randomTickSpeed is now set to: 30]
-[03:43:32] [Server thread/INFO]: Villager Villager['Farmer'/21290, uuid='f2111bc5-46c3-4674-98e0-e5630719bd0e', l='ServerLevel[world]', x=218.74, y=64.00, z=275.15, cpos=[13, 17], tl=21392, v=true] died, message: 'Farmer was slain by R0MDK'
-[03:44:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
-save<--[HERE]
-[03:44:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
-backup<--[HERE]
-[03:44:25] [Server thread/INFO]: Stopping the server
-[03:44:25] [Server thread/INFO]: Stopping server
-[03:44:25] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
-[03:44:25] [Server thread/INFO]: Saving players
-[03:44:26] [Server thread/INFO]: R0MDK lost connection: Server closed
-[03:44:26] [Server thread/INFO]: R0MDK left the game
-[03:44:26] [Server thread/INFO]: oOMiluOo lost connection: Server closed
-[03:44:26] [Server thread/INFO]: oOMiluOo left the game
-[03:44:26] [Server thread/INFO]: Saving worlds
-[03:44:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Saved 79 block chunks, 420 entity chunks, 2 poi chunks in world 'world' in 0.20s
-[03:44:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Saved 15 block chunks, 53 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
-[03:44:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:44:26] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[03:44:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:44:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:44:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:44:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:44:33] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[02:44:33] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[02:44:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:44:34] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[02:44:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:44:41] [ServerMain/INFO]: Loaded 1290 recipes
+[02:44:41] [ServerMain/INFO]: Loaded 1399 advancements
+[02:44:41] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:44:41] [Server thread/INFO]: Loading properties
+[02:44:41] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[02:44:42] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:44:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:44:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:44:43] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:44:43] [Server thread/INFO]: Default game type: SURVIVAL
+[02:44:43] [Server thread/INFO]: Generating keypair
+[02:44:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:44:43] [Server thread/INFO]: Using epoll channel type
+[02:44:43] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:44:43] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:44:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:44:43] [Server thread/INFO]: Preparing level "world"
+[02:44:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:44:45] [Server thread/INFO]: Time elapsed: 1542 ms
+[02:44:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:44:45] [Server thread/INFO]: Time elapsed: 199 ms
+[02:44:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:44:45] [Server thread/INFO]: Time elapsed: 104 ms
+[02:44:45] [Server thread/INFO]: [spark] Starting background profiler...
+[02:44:46] [Server thread/INFO]: Done preparing level "world" (2.565s)
+[02:44:46] [Server thread/INFO]: Running delayed init tasks
+[02:44:46] [Server thread/INFO]: Done (13.467s)! For help, type "help"
+[02:44:46] [Server thread/INFO]: Timings Reset
+[02:46:29] [User Authenticator #0/INFO]: UUID of player oOMiluOo is 314952dd-48a2-46a5-a3cd-79c6780a5356
+[02:46:33] [Server thread/INFO]: oOMiluOo joined the game
+[02:46:33] [Server thread/INFO]: oOMiluOo[/127.216.187.48:55131] logged in with entity id 25 at ([world]-574.5092373257056, 69.0, -163.40942036015267)
+[02:48:15] [User Authenticator #1/INFO]: UUID of player R0MDK is 5579493a-da40-4eb6-8af6-e66bf3b2174b
+[02:48:17] [Server thread/INFO]: R0MDK joined the game
+[02:48:17] [Server thread/INFO]: R0MDK[/127.13.255.250:55953] logged in with entity id 432 at ([world]-578.4478256283547, 71.0, -179.7585484547686)
+[02:50:49] [Server thread/INFO]: oOMiluOo was blown up by Creeper
+[02:50:59] [Server thread/INFO]: Gave 123 [Potato] to R0MDK
+[02:51:30] [Server thread/INFO]: R0MDK issued server command: /time set day
+[02:51:30] [Server thread/INFO]: [R0MDK: Set the time to 1000]
+[02:51:40] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo R0MDK
+[02:51:40] [Server thread/INFO]: Attempt to teleport removed player oOMiluOo restricted
+[02:51:40] [Server thread/INFO]: [R0MDK: Teleported oOMiluOo to R0MDK]
+[02:51:57] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo R0MDK
+[02:51:57] [Server thread/INFO]: Attempt to teleport removed player oOMiluOo restricted
+[02:51:57] [Server thread/INFO]: [R0MDK: Teleported oOMiluOo to R0MDK]
+[02:52:10] [Async Chat Thread - #3/INFO]: <R0MDK> a

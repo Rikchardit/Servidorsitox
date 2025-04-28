@@ -1,19 +1,7 @@
 [
   {
-    "uuid": "df63d3d9-1632-3384-afbb-7e33c34742a1",
-    "name": "R00MDK",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "ed8eb3e8-50cc-3662-9704-7ca8df28152a",
+    "uuid": "5579493a-da40-4eb6-8af6-e66bf3b2174b",
     "name": "R0MDK",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "68eaffbb-3b41-3e72-abbe-2af5f4337c80",
-    "name": "R00MD",
     "level": 4,
     "bypassesPlayerLimit": false
   }
