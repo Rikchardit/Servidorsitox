@@ -48,3 +48,13 @@
 [02:51:57] [Server thread/INFO]: Attempt to teleport removed player oOMiluOo restricted
 [02:51:57] [Server thread/INFO]: [R0MDK: Teleported oOMiluOo to R0MDK]
 [02:52:10] [Async Chat Thread - #3/INFO]: <R0MDK> a
+[02:54:51] [Server thread/INFO]: R0MDK issued server command: /tp oOMiluOo R0MDK
+[02:54:51] [Server thread/INFO]: [R0MDK: Teleported oOMiluOo to R0MDK]
+[03:02:42] [Server thread/INFO]: Gave 123 [Potato] to R0MDK
+[03:02:43] [Server thread/INFO]: Gave 123 [Potato] to R0MDK
+[03:03:41] [Server thread/INFO]: Gave 400 [Potato] to R0MDK
+[03:04:01] [Server thread/INFO]: R0MDK lost connection: Disconnected
+[03:04:01] [Server thread/INFO]: R0MDK left the game
+[03:04:07] [User Authenticator #2/INFO]: UUID of player R0MDK is 5579493a-da40-4eb6-8af6-e66bf3b2174b
+[03:04:09] [Server thread/INFO]: R0MDK joined the game
+[03:04:09] [Server thread/INFO]: R0MDK[/127.13.255.250:51005] logged in with entity id 2522 at ([world]-545.9156302672346, 69.0, -156.69329223184408)
