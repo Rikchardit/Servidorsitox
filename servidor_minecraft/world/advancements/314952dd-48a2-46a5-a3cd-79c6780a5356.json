@@ -7,11 +7,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-04-28 03:24:38 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-28 03:27:35 +0000",
       "minecraft:savanna_plateau": "2025-04-27 05:11:06 +0000",
+      "minecraft:dark_forest": "2025-04-28 03:27:41 +0000",
       "minecraft:forest": "2025-04-27 03:50:24 +0000",
       "minecraft:sparse_jungle": "2025-04-27 03:48:59 +0000",
       "minecraft:jungle": "2025-04-27 03:53:56 +0000",
       "minecraft:river": "2025-04-27 03:53:45 +0000",
+      "minecraft:birch_forest": "2025-04-28 03:27:26 +0000",
       "minecraft:dripstone_caves": "2025-04-27 04:35:42 +0000",
       "minecraft:savanna": "2025-04-27 03:57:14 +0000",
       "minecraft:plains": "2025-04-27 03:57:10 +0000"
@@ -1449,6 +1453,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-04-28 03:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-28 03:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 03:07:24 +0000"
@@ -1461,15 +1477,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2025-04-28 03:24:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-04-28 03:12:40 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-28 03:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2025-04-28 03:24:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 03:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-28 03:24:44 +0000"
     },
     "done": true
   },
@@ -1518,6 +1558,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 03:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-28 03:24:44 +0000"
     },
     "done": true
   },
